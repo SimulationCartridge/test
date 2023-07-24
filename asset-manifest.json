@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Senoidal/static/css/main.073c9b0a.css",
+    "main.js": "/Senoidal/static/js/main.e9cf2a1c.js",
+    "static/js/787.0c3f432a.chunk.js": "/Senoidal/static/js/787.0c3f432a.chunk.js",
+    "static/media/logo.svg": "/Senoidal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Senoidal/index.html",
+    "main.073c9b0a.css.map": "/Senoidal/static/css/main.073c9b0a.css.map",
+    "main.e9cf2a1c.js.map": "/Senoidal/static/js/main.e9cf2a1c.js.map",
+    "787.0c3f432a.chunk.js.map": "/Senoidal/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e9cf2a1c.js"
+  ]
+}
